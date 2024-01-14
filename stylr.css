@@ -157,7 +157,7 @@ transition: inset .3s ease-out;
 
 .swiper-slide--2 {
   background:
-  url("img/12.png")
+  url("12.png")
       no-repeat 50% 50% / cover;
 }
 .swiper-slide--3{
